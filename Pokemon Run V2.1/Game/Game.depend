@@ -1,0 +1,714 @@
+# depslib dependency file v1.0
+1472647284 source:c:\users\sherlock holmes\desktop\c++\game\loadstory.cpp
+	<iostream>
+	<iomanip>
+	"LoadStory.h"
+
+1472643024 c:\users\sherlock holmes\desktop\c++\game\loadstory.h
+	<string>
+
+1472645047 source:c:\users\sherlock holmes\desktop\c++\game\error.h
+	<string>
+	<stdexcept>
+
+1472647109 source:c:\users\sherlock holmes\desktop\c++\game\gametable.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<stdexcept>
+	<vector>
+	"GameTable.h"
+	"Error.h"
+	"LoadStory.h"
+
+1472644991 c:\users\sherlock holmes\desktop\c++\game\gametable.h
+
+1472645047 c:\users\sherlock holmes\desktop\c++\game\error.h
+	<string>
+	<stdexcept>
+
+1472644991 source:c:\users\sherlock holmes\desktop\c++\game\gametable.h
+
+1472643024 source:c:\users\sherlock holmes\desktop\c++\game\loadstory.h
+	<string>
+
+1472734449 source:c:\users\sherlock holmes\desktop\c++\game\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<vector>
+	"GameTable.h"
+	"Map.h"
+	"MicroMap.h"
+
+1472734533 c:\users\sherlock holmes\desktop\c++\game\map.h
+
+1472734478 source:c:\users\sherlock holmes\desktop\c++\game\map.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Map.h"
+
+1472729856 source:c:\users\sherlock holmes\desktop\c++\game\micromap.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"MicroMap.h"
+
+1472729490 c:\users\sherlock holmes\desktop\c++\game\micromap.h
+	<string>
+
+1473489304 source:c:\users\sherlock holmes\desktop\pokemon run\game\gametable.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<stdexcept>
+	<vector>
+	"GameTable.h"
+	"Error.h"
+	"LoadStory.h"
+
+1473489315 c:\users\sherlock holmes\desktop\pokemon run\game\gametable.h
+	<fstream>
+	<sstream>
+
+1472645047 c:\users\sherlock holmes\desktop\pokemon run\game\error.h
+	<string>
+	<stdexcept>
+
+1472643024 c:\users\sherlock holmes\desktop\pokemon run\game\loadstory.h
+	<string>
+
+1472647284 source:c:\users\sherlock holmes\desktop\pokemon run\game\loadstory.cpp
+	<iostream>
+	<iomanip>
+	"LoadStory.h"
+
+1472729856 source:c:\users\sherlock holmes\desktop\pokemon run\game\micromap.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"MicroMap.h"
+
+1472729490 c:\users\sherlock holmes\desktop\pokemon run\game\micromap.h
+	<string>
+
+1473503617 source:c:\users\sherlock holmes\desktop\pokemon run\game\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<vector>
+	"Map.h"
+	"GameTable.h"
+	"MicroMap.h"
+	"Pikachu.h"
+	"PokemonStore.h"
+	"Bag.h"
+
+1473499607 c:\users\sherlock holmes\desktop\pokemon run\game\map.h
+	<string>
+	"Pikachu.h"
+	"Bag.h"
+	"PokemonStore.h"
+
+1473501338 source:c:\users\sherlock holmes\desktop\pokemon run\game\map.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cstring>
+	<string>
+	<vector>
+	"Map.h"
+	"PokemonStore.h"
+	"Bag.h"
+	"Pokemon.h"
+
+1473503807 source:c:\users\sherlock holmes\desktop\pokemon run\game\bag.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<string>
+	"Bag.h"
+
+1473502998 c:\users\sherlock holmes\desktop\pokemon run\game\bag.h
+	<string>
+
+1473503731 source:c:\users\sherlock holmes\desktop\pokemon run\game\pikachu.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	"Pikachu.h"
+
+1473498727 c:\users\sherlock holmes\desktop\pokemon run\game\pikachu.h
+	<string>
+	"Bag.h"
+	"Pokemon.h"
+
+1473349902 c:\users\sherlock holmes\desktop\pokemon run\game\pokemon.h
+	<string>
+
+1473352617 source:c:\users\sherlock holmes\desktop\pokemon run\game\pokemon.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Pokemon.h"
+
+1473395988 source:c:\users\sherlock holmes\desktop\pokemon run\game\pokemonstore.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"PokemonStore.h"
+	"Pikachu.h"
+
+1473396413 c:\users\sherlock holmes\desktop\pokemon run\game\pokemonstore.h
+	"Bag.h"
+	"Pikachu.h"
+
+1473503759 source:c:\users\sherlock holmes\desktop\pokemon run\game\combat.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<vector>
+	"Pikachu.h"
+	"Pokemon.h"
+	"Bag.h"
+
+1473416332 source:c:\users\sherlock holmes\desktop\pokemon run\game\readpokemonlist.cpp
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<vector>
+	"Error.h"
+	"Pokemon.h"
+
+1473752324 source:c:\users\sherlock holmes\desktop\pokemon run v2.0\game\bag.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<string>
+	"Bag.h"
+
+1473750859 c:\users\sherlock holmes\desktop\pokemon run v2.0\game\bag.h
+	<string>
+
+1473764246 source:c:\users\sherlock holmes\desktop\pokemon run v2.0\game\combat.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<vector>
+	"Pikachu.h"
+	"Pokemon.h"
+	"Bag.h"
+
+1473751044 c:\users\sherlock holmes\desktop\pokemon run v2.0\game\pikachu.h
+	<string>
+	"Bag.h"
+	"Pokemon.h"
+
+1473349902 c:\users\sherlock holmes\desktop\pokemon run v2.0\game\pokemon.h
+	<string>
+
+1473760151 source:c:\users\sherlock holmes\desktop\pokemon run v2.0\game\gametable.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<stdexcept>
+	<vector>
+	"GameTable.h"
+	"Error.h"
+	"LoadStory.h"
+
+1473489315 c:\users\sherlock holmes\desktop\pokemon run v2.0\game\gametable.h
+	<fstream>
+	<sstream>
+
+1472645047 c:\users\sherlock holmes\desktop\pokemon run v2.0\game\error.h
+	<string>
+	<stdexcept>
+
+1472643024 c:\users\sherlock holmes\desktop\pokemon run v2.0\game\loadstory.h
+	<string>
+
+1472647284 source:c:\users\sherlock holmes\desktop\pokemon run v2.0\game\loadstory.cpp
+	<iostream>
+	<iomanip>
+	"LoadStory.h"
+
+1473764255 source:c:\users\sherlock holmes\desktop\pokemon run v2.0\game\map.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cstring>
+	<string>
+	<vector>
+	"Map.h"
+	"PokemonStore.h"
+	"Bag.h"
+	"Pokemon.h"
+
+1473499607 c:\users\sherlock holmes\desktop\pokemon run v2.0\game\map.h
+	<string>
+	"Pikachu.h"
+	"Bag.h"
+	"PokemonStore.h"
+
+1473396413 c:\users\sherlock holmes\desktop\pokemon run v2.0\game\pokemonstore.h
+	"Bag.h"
+	"Pikachu.h"
+
+1472729856 source:c:\users\sherlock holmes\desktop\pokemon run v2.0\game\micromap.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"MicroMap.h"
+
+1472729490 c:\users\sherlock holmes\desktop\pokemon run v2.0\game\micromap.h
+	<string>
+
+1473503731 source:c:\users\sherlock holmes\desktop\pokemon run v2.0\game\pikachu.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	"Pikachu.h"
+
+1473352617 source:c:\users\sherlock holmes\desktop\pokemon run v2.0\game\pokemon.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Pokemon.h"
+
+1473395988 source:c:\users\sherlock holmes\desktop\pokemon run v2.0\game\pokemonstore.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"PokemonStore.h"
+	"Pikachu.h"
+
+1473416332 source:c:\users\sherlock holmes\desktop\pokemon run v2.0\game\readpokemonlist.cpp
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<vector>
+	"Error.h"
+	"Pokemon.h"
+
+1473772656 source:c:\users\sherlock holmes\desktop\pokemon run v2.0\game\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<vector>
+	"Map.h"
+	"GameTable.h"
+	"MicroMap.h"
+	"Pikachu.h"
+	"PokemonStore.h"
+	"Bag.h"
+
+1473752324 source:c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\bag.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<string>
+	"Bag.h"
+
+1473750859 c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\bag.h
+	<string>
+
+1473764246 source:c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\combat.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<vector>
+	"Pikachu.h"
+	"Pokemon.h"
+	"Bag.h"
+
+1473751044 c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\pikachu.h
+	<string>
+	"Bag.h"
+	"Pokemon.h"
+
+1473349902 c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\pokemon.h
+	<string>
+
+1473760151 source:c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\gametable.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<stdexcept>
+	<vector>
+	"GameTable.h"
+	"Error.h"
+	"LoadStory.h"
+
+1473489315 c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\gametable.h
+	<fstream>
+	<sstream>
+
+1472645047 c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\error.h
+	<string>
+	<stdexcept>
+
+1472643024 c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\loadstory.h
+	<string>
+
+1472647284 source:c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\loadstory.cpp
+	<iostream>
+	<iomanip>
+	"LoadStory.h"
+
+1473772656 source:c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<vector>
+	"Map.h"
+	"GameTable.h"
+	"MicroMap.h"
+	"Pikachu.h"
+	"PokemonStore.h"
+	"Bag.h"
+
+1473499607 c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\map.h
+	<string>
+	"Pikachu.h"
+	"Bag.h"
+	"PokemonStore.h"
+
+1473396413 c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\pokemonstore.h
+	"Bag.h"
+	"Pikachu.h"
+
+1472729490 c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\micromap.h
+	<string>
+
+1473764255 source:c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\map.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cstring>
+	<string>
+	<vector>
+	"Map.h"
+	"PokemonStore.h"
+	"Bag.h"
+	"Pokemon.h"
+
+1472729856 source:c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\micromap.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"MicroMap.h"
+
+1473503731 source:c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\pikachu.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	"Pikachu.h"
+
+1473352617 source:c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\pokemon.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Pokemon.h"
+
+1473395988 source:c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\pokemonstore.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"PokemonStore.h"
+	"Pikachu.h"
+
+1473416332 source:c:\users\lihongchun\desktop\pokemon run v2.1\pokemon run v2.1\game\readpokemonlist.cpp
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<vector>
+	"Error.h"
+	"Pokemon.h"
+
+1473752326 source:c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\bag.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<string>
+	"Bag.h"
+
+1473750860 c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\bag.h
+	<string>
+
+1473764248 source:c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\combat.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<vector>
+	"Pikachu.h"
+	"Pokemon.h"
+	"Bag.h"
+
+1473751046 c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\pikachu.h
+	<string>
+	"Bag.h"
+	"Pokemon.h"
+
+1473349904 c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\pokemon.h
+	<string>
+
+1473760152 source:c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\gametable.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<stdexcept>
+	<vector>
+	"GameTable.h"
+	"Error.h"
+	"LoadStory.h"
+
+1473489316 c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\gametable.h
+	<fstream>
+	<sstream>
+
+1472645048 c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\error.h
+	<string>
+	<stdexcept>
+
+1472643026 c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\loadstory.h
+	<string>
+
+1472647286 source:c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\loadstory.cpp
+	<iostream>
+	<iomanip>
+	"LoadStory.h"
+
+1473772658 source:c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<vector>
+	"Map.h"
+	"GameTable.h"
+	"MicroMap.h"
+	"Pikachu.h"
+	"PokemonStore.h"
+	"Bag.h"
+
+1473499608 c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\map.h
+	<string>
+	"Pikachu.h"
+	"Bag.h"
+	"PokemonStore.h"
+
+1473396414 c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\pokemonstore.h
+	"Bag.h"
+	"Pikachu.h"
+
+1472729492 c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\micromap.h
+	<string>
+
+1473764256 source:c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\map.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cstring>
+	<string>
+	<vector>
+	"Map.h"
+	"PokemonStore.h"
+	"Bag.h"
+	"Pokemon.h"
+
+1472729858 source:c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\micromap.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"MicroMap.h"
+
+1473503732 source:c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\pikachu.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	"Pikachu.h"
+
+1473352618 source:c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\pokemon.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Pokemon.h"
+
+1473395990 source:c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\pokemonstore.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"PokemonStore.h"
+	"Pikachu.h"
+
+1473416334 source:c:\users\sherlock holmes\desktop\pokemon run v2.1\pokemon run v2.1\game\readpokemonlist.cpp
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<vector>
+	"Error.h"
+	"Pokemon.h"
+
+1473752326 source:f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\bag.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<string>
+	"Bag.h"
+
+1473750860 f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\bag.h
+	<string>
+
+1473764248 source:f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\combat.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	<vector>
+	"Pikachu.h"
+	"Pokemon.h"
+	"Bag.h"
+
+1473751046 f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\pikachu.h
+	<string>
+	"Bag.h"
+	"Pokemon.h"
+
+1473349904 f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\pokemon.h
+	<string>
+
+1473760152 source:f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\gametable.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<stdexcept>
+	<vector>
+	"GameTable.h"
+	"Error.h"
+	"LoadStory.h"
+
+1473489316 f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\gametable.h
+	<fstream>
+	<sstream>
+
+1472645048 f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\error.h
+	<string>
+	<stdexcept>
+
+1472643026 f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\loadstory.h
+	<string>
+
+1472647286 source:f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\loadstory.cpp
+	<iostream>
+	<iomanip>
+	"LoadStory.h"
+
+1473772658 source:f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<vector>
+	"Map.h"
+	"GameTable.h"
+	"MicroMap.h"
+	"Pikachu.h"
+	"PokemonStore.h"
+	"Bag.h"
+
+1473499608 f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\map.h
+	<string>
+	"Pikachu.h"
+	"Bag.h"
+	"PokemonStore.h"
+
+1473396414 f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\pokemonstore.h
+	"Bag.h"
+	"Pikachu.h"
+
+1472729492 f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\micromap.h
+	<string>
+
+1473764256 source:f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\map.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<cstring>
+	<string>
+	<vector>
+	"Map.h"
+	"PokemonStore.h"
+	"Bag.h"
+	"Pokemon.h"
+
+1472729858 source:f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\micromap.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	"MicroMap.h"
+
+1473503732 source:f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\pikachu.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	"Pikachu.h"
+
+1473352618 source:f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\pokemon.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"Pokemon.h"
+
+1473395990 source:f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\pokemonstore.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"PokemonStore.h"
+	"Pikachu.h"
+
+1473416334 source:f:\大学课件\c++课程设计\pokemon run v2.1\pokemon run v2.1\game\readpokemonlist.cpp
+	<iostream>
+	<cstdlib>
+	<sstream>
+	<fstream>
+	<vector>
+	"Error.h"
+	"Pokemon.h"
+
